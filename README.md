@@ -4,7 +4,10 @@ You are sure you in the right place? ;) - JK, welcome fellow IT human, have a lo
 <br>
 The content you are about to browse is mostly realted to my everyday work in IT, by sharing it here on GitHub I hope other people may find it usefull and help achieve their goals or get over challenges. 
 
-sharing is caring!
+Sharing is caring!
+<br>
+<br>
+Pull request are welcome :)
 <br>
 <br>
 
