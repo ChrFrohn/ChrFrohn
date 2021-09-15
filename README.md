@@ -7,9 +7,7 @@ The content you are about to browse is mostly realted to my everyday work in IT,
 Sharing is caring!
 <br>
 <br>
-Pull request are welcome :)
-<br>
-<br>
+
 
 
 #### My focus areas:
