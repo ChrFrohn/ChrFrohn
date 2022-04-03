@@ -6,8 +6,8 @@ The content you are about to browse is mostly realted to my everyday work in IT,
 
 Sharing is caring!
 <br>
-<br>
 
+#### Link to my Gist: https://gist.github.com/ChrFrohn
 
 
 #### My focus areas:
