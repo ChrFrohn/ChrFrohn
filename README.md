@@ -33,7 +33,7 @@ Sharing is caring!
          <img alt="CertSC-300" src="https://images.credly.com/size/680x680/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png"
          width=150" height="150">
       </a>
-      <a href="https://www.credly.com/badges/fa1cd6f8-b0f6-49b2-ac2d-4c9d7fca2eed">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/ChristianFrohn/50CCDE8ABA2D9AB7?sharingId=DF394CA091D5821C">
          <img alt="CertAZ-104" src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"
          width=150" height="150">
       </a>     
