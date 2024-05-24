@@ -2,7 +2,7 @@
 You are sure you in the right place? ;) - JK, welcome fellow IT human, have a look around.
 
 <br>
-The content you are about to browse is mostly realted to my everyday work in IT, by sharing it here on GitHub I hope other people may find it usefull and help achieve their goals or get over challenges. 
+The content you are about to browse is mostly realted to my everyday work in IT, or used in my blog posts on https://christianfrohn.dk/ by sharing it here on GitHub I hope other people may find it usefull and help achieve their goals or get over challenges. 
 
 Sharing is caring!
 <br>
