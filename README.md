@@ -15,17 +15,13 @@
   <h1>
     Well, hello there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I'm Christian
   </h1>
 </div>
 
----
+I am a Cloud Engineer, I specialize in identity and access management, PowerShell scripting and automation, I share my knowledge and expertise about those topics on my blog on https://christianfrohn.dk. I also write about various other topics related to other Microsoft technologies. I also enjoy learning new skills and staying updated on the latest trends and developments in the IT industry.
 
-#### My focus areas:
-* PowerShell scripting and automation
-* Identity and access management
-* Microsoft Azure infrastructure
-* Microsoft Teams
-* Data analysis
+You are welcome to reach out to me on LinkedIn 
 
 ---
 
