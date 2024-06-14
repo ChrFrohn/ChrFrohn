@@ -58,8 +58,3 @@
 
 ---
 
-My stats:
-
-![ChrFrohn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrFrohn&theme=github_dark_dimmed&hide_border=true)
-
-![ChrFrohn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrFrohn&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact)
