@@ -1,12 +1,24 @@
-### Well, hello there
-You are sure you in the right place? ;) - JK, welcome fellow IT human, have a look around.
+<div id="header" align="center">
+  <img src="https://www.christianfrohn.dk/wp-content/uploads/2022/04/cropped-cropped-20220415_103357000_iOS-removebg-preview.png" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/Frohn/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/Christian_frohn">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+       <a href="https://christianfrohn.dk">
+      <img src="https://img.shields.io/badge/Christianfrohn.dk-556b2f?style=for-the-badge&logoColor=white"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=ChrFrohn&style=flat-square&color=blue"/>
+  <h1>
+    Well, hello there!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
-<br>
-The content you are about to browse is mostly realted to my everyday work in IT, or used in my blog posts on https://christianfrohn.dk/ by sharing it here on GitHub I hope other people may find it usefull and help achieve their goals or get over challenges. 
-
-Sharing is caring!
-<br>
-
+---
 
 #### My focus areas:
 * PowerShell scripting and automation
@@ -15,9 +27,9 @@ Sharing is caring!
 * Microsoft Teams
 * Data analysis
 
-<br>
+---
 
-#### Certifactions:
+#### Certifications:
 <br>
 <html>
    <body>
@@ -44,5 +56,10 @@ Sharing is caring!
    </body>
 </html>
 
-           
-              
+---
+
+My stats:
+
+![ChrFrohn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrFrohn&theme=github_dark_dimmed&hide_border=true)
+
+![ChrFrohn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrFrohn&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact)
