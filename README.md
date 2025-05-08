@@ -19,9 +19,9 @@
   </h1>
 </div>
 
-I am a Cloud Engineer, and I specialize in identity and access management, Microsoft Entra, PowerShell scripting and automation. I share my knowledge and expertise about those topics on my blog at https://christianfrohn.dk. I also write about other topics related to various Microsoft technologies. I also enjoy learning new skills and staying updated on the latest trends and developments in the IT industry.
+I am a Microsoft MVP (Security) and Cloud Engineer, specializing in identity and access management, Microsoft Entra, PowerShell scripting and automation. I share my knowledge and expertise about those topics on my blog at https://christianfrohn.dk. I also write about other topics related to various Microsoft technologies. I also enjoy learning new skills and staying updated on the latest trends and developments in the IT industry.
 
-You are welcome to reach out to me on LinkedIn 
+You are welcome to reach out to me on [LinkedIn](https://www.linkedin.com/in/Frohn/)
 
 ---
 
