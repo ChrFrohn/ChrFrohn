@@ -31,7 +31,7 @@ You are welcome to reach out to me on [LinkedIn](https://www.linkedin.com/in/Fro
    <br>
    <html>
       <body>
-         <a href="https://images.credly.com/images/b43fd4f0-40c3-40dd-83e9-c9dde35ea615/">
+         <a href="https://www.credly.com/badges/6b4fe091-432e-4d60-bab1-34bd4af1aada">
             <img alt="Community Badge" src="https://images.credly.com/images/b43fd4f0-40c3-40dd-83e9-c9dde35ea615/blob"
             width="120" height="120">
          </a>
@@ -39,7 +39,7 @@ You are welcome to reach out to me on [LinkedIn](https://www.linkedin.com/in/Fro
             <img alt="Microsoft MVP" src="https://images.credly.com/size/340x340/images/00e5354b-b9fc-4bef-8732-59b419a7c16b/blob"
             width="150" height="150">
          </a>
-         <a href="https://images.credly.com/images/cb565224-a2bd-40b6-b744-ffea40e0b008/">
+         <a href="https://www.credly.com/badges/0534bc76-6f94-4fa1-9e94-3aecf4d68511">
             <img alt="Community Badge" src="https://images.credly.com/images/cb565224-a2bd-40b6-b744-ffea40e0b008/blob"
             width="120" height="120">
          </a>
@@ -73,6 +73,15 @@ You are welcome to reach out to me on [LinkedIn](https://www.linkedin.com/in/Fro
          </a>     
          <a href="https://learn.microsoft.com/api/credentials/share/en-us/ChristianFrohn/7B32B7BACABA5C7F?sharingId=DF394CA091D5821C">
             <img alt="CertAZ-500" src="https://images.credly.com/size/340x340/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png"
+            width="150" height="150">
+         </a>
+         <br><br>
+         <a href="https://www.credly.com/badges/0ed6d020-4387-4355-8a04-40ae3831d730">
+            <img alt="Additional Cert" src="https://images.credly.com/size/340x340/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png"
+            width="150" height="150">
+         </a>
+         <a href="https://www.credly.com/badges/f6d3a849-5c58-4f3e-aaae-fbae3d1b5c31">
+            <img alt="Additional Cert" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
             width="150" height="150">
          </a>
       </body>
