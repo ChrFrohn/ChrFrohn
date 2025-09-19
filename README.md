@@ -26,6 +26,30 @@ You are welcome to reach out to me on [LinkedIn](https://www.linkedin.com/in/Fro
 ---
 
 <div align="center">
+ :star: Community Recognitions:
+  <br>
+   <br>
+   <html>
+      <body>
+         <a href="https://images.credly.com/images/b43fd4f0-40c3-40dd-83e9-c9dde35ea615/">
+            <img alt="Community Badge" src="https://images.credly.com/images/b43fd4f0-40c3-40dd-83e9-c9dde35ea615/blob"
+            width="120" height="120">
+         </a>
+         <a href="https://www.credly.com/badges/0112579e-2fb6-42e2-a53b-5d7c8b65c63c">
+            <img alt="Microsoft MVP" src="https://images.credly.com/size/340x340/images/00e5354b-b9fc-4bef-8732-59b419a7c16b/blob"
+            width="150" height="150">
+         </a>
+         <a href="https://images.credly.com/images/cb565224-a2bd-40b6-b744-ffea40e0b008/">
+            <img alt="Community Badge" src="https://images.credly.com/images/cb565224-a2bd-40b6-b744-ffea40e0b008/blob"
+            width="120" height="120">
+         </a>
+      </body>
+   </html>
+</div>
+
+---
+
+<div align="center">
  :trophy: Certifications:
   <br>
    <br>
@@ -64,9 +88,5 @@ You are welcome to reach out to me on [LinkedIn](https://www.linkedin.com/in/Fro
 <div align="center">
    <img alt="ChrFrohn's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ChrFrohn&theme=github_dark_dimmed&hide_border=true">
 </div>
-
-
-
-
 
 
