@@ -21,7 +21,7 @@
 
 I am a Microsoft MVP (Security) and Cloud Engineer, specializing in identity and access management, Microsoft Entra, PowerShell scripting and automation. I share my knowledge and expertise about those topics on my blog at https://christianfrohn.dk. I also write about other topics related to various Microsoft technologies. I also enjoy learning new skills and staying updated on the latest trends and developments in the IT industry.
 
-You are welcome to reach out to me on [LinkedIn](https://www.linkedin.com/in/Frohn/)
+You are welcome to reach out to me on [LinkedIn](https://www.linkedin.com/in/Frohn/) if you have any questions or just want to connect.
 
 ---
 
@@ -31,17 +31,30 @@ You are welcome to reach out to me on [LinkedIn](https://www.linkedin.com/in/Fro
    <br>
    <html>
       <body>
-         <a href="https://www.credly.com/badges/6b4fe091-432e-4d60-bab1-34bd4af1aada">
-            <img alt="Community Badge" src="https://images.credly.com/images/b43fd4f0-40c3-40dd-83e9-c9dde35ea615/blob"
-            width="120" height="120">
-         </a>
          <a href="https://www.credly.com/badges/0112579e-2fb6-42e2-a53b-5d7c8b65c63c">
             <img alt="Microsoft MVP" src="https://images.credly.com/size/340x340/images/00e5354b-b9fc-4bef-8732-59b419a7c16b/blob"
-            width="150" height="150">
+            width="220" height="220">
+         </a>
+         <br><br>
+         <a href="https://www.credly.com/badges/a61cedba-2f88-46cd-b076-fd7b517dcddc">
+            <img alt="Community Badge" src="https://images.credly.com/size/340x340/images/a61cedba-2f88-46cd-b076-fd7b517dcddc/blob"
+            width="200" height="200">
+         </a>
+         <a href="https://www.credly.com/badges/6b4fe091-432e-4d60-bab1-34bd4af1aada">
+            <img alt="Community Badge" src="https://images.credly.com/images/b43fd4f0-40c3-40dd-83e9-c9dde35ea615/blob"
+            width="200" height="200">
          </a>
          <a href="https://www.credly.com/badges/0534bc76-6f94-4fa1-9e94-3aecf4d68511">
             <img alt="Community Badge" src="https://images.credly.com/images/cb565224-a2bd-40b6-b744-ffea40e0b008/blob"
-            width="120" height="120">
+            width="200" height="200">
+         </a>
+         <a href="#">
+            <img alt="Community Badge" src="https://images.credly.com/images/e88c2311-a5ec-4941-9b52-16d6b7fcf8e7/blob"
+            width="200" height="200">
+         </a>
+         <a href="#">
+            <img alt="Community Badge" src="https://images.credly.com/images/097e9a6b-4ef3-41ba-b11c-851351c57592/blob"
+            width="200" height="200">
          </a>
       </body>
    </html>
@@ -88,14 +101,4 @@ You are welcome to reach out to me on [LinkedIn](https://www.linkedin.com/in/Fro
    </html>
 </div>
 
-
 ---
-<div align="center">
-    :fire: GitHub Streak
-</div>
-<br>
-<div align="center">
-   <img alt="ChrFrohn's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ChrFrohn&theme=github_dark_dimmed&hide_border=true">
-</div>
-
-
