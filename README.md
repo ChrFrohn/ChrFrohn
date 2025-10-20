@@ -97,6 +97,10 @@ You are welcome to reach out to me on [LinkedIn](https://www.linkedin.com/in/Fro
             <img alt="Additional Cert" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
             width="150" height="150">
          </a>
+         <a href="#">
+            <img alt="Additional Cert" src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png"
+            width="150" height="150">
+         </a>
       </body>
    </html>
 </div>
